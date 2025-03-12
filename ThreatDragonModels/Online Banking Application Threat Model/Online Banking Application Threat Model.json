@@ -1,0 +1,27 @@
+{
+  "version": "2.4.1",
+  "summary": {
+    "title": "Online Banking Application Threat Model",
+    "owner": "Sudip Dhakal",
+    "description": "Online banking applications are prime targets for cyber threats due to their handling of sensitive financial data. Threat model for a new online banking application, focusing on identifying potential security threats and proposing mitigation strategies using the STRIDE methodology.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Banking Application Threat Model",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.4.1",
+        "cells": [],
+        "description": "Online Banking Threat modeling"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "Cybersecurity Architect",
+    "threatTop": 0
+  }
+}
